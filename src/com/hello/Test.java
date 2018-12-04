@@ -7,7 +7,7 @@ import java.util.List;
 public class Test implements Runnable 
 {
 
-	List<String> l = Arrays.asList("N","O","K","I","A");
+	List<String> l = Arrays.asList("N","O","K","II","A");
     int counter = 0;
 	public  synchronized Integer getCounter() 
 	{
