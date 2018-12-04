@@ -19,7 +19,7 @@ class RegexExample3
 	    //kksdaksdncspdncskl
 		Map<Integer, String> map = new HashMap<>();
 		Map<Integer, String> updatedMap = new HashMap<>();
-		map.put(1, "P");
+		map.put(1, "PO");
 		map.put(2, "N");
 		map.put(3, "O");
 		map.put(4, "M..");
