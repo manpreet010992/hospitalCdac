@@ -14,6 +14,7 @@ class RegexExample3
 	 */
 	public static void main(String args[])
 	{
+	    //Commot
 		Map<Integer, String> map = new HashMap<>();
 		Map<Integer, String> updatedMap = new HashMap<>();
 		map.put(1, "P");
