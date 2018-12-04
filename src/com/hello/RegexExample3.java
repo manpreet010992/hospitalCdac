@@ -21,7 +21,7 @@ class RegexExample3
 		map.put(1, "P");
 		map.put(2, "N");
 		map.put(3, "O");
-		map.put(4, "M)");
+		map.put(4, "M");
 
 		List<String> list = new ArrayList<>();
 		list.add("N");
